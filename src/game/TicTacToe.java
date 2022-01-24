@@ -49,7 +49,11 @@ public class TicTacToe {
         char[][] mappingTable = {
                 {'7', '8', '9'},
                 {'4', '5', '6'},
-                {'1', '2', '4'}
+
+                {'1', '2', '4'},
+
+                {'1', '2', '5'}
+
         };
         printGameTable(mappingTable);
     }
